@@ -14,7 +14,7 @@ $ rtti-obfuscator <path-to-binary>
 
 ### Preview
 
-RTTI | Obfuscated RTTI
+RTTI (left pane) | Obfuscated RTTI (right pane)
 ![](http://i.imgur.com/DdhjIsv.jpg)
 
 This is how a binary would look without any RTTI obfuscation:
