@@ -1,7 +1,7 @@
 # C++ RTTI Obfuscator
 Obfuscates all RTTI (Run-time type information) inside a binary so AC's can't catch you on it.
 
-Credits to https://github.com/koemeet/rtti-obfuscator
+Credits to https://github.com/koemeet/rtti-obfuscator!
 I've just got rid of the annoying boost dependencies :-)
 
 ### Usage
