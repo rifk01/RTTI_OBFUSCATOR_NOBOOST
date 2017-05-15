@@ -2,7 +2,7 @@
 Obfuscates all RTTI (Run-time type information) inside a binary so AC's can't catch you on it.
 
 Credits to https://github.com/koemeet/rtti-obfuscator!
-I've just got rid of the annoying boost dependencies :-)
+I've just got rid of the annoying boost dependencies. :-)
 
 ### Usage
 You can simply drop any binary into it and it outputs the obfuscated binary in `<relative-dir>/<filename>.tan.<extension>`.
